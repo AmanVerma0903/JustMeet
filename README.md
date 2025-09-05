@@ -235,7 +235,7 @@ This project is licensed under the ISC License.
 
 ## 👥 Authors
 
-- **ApnaCollege** - Initial work
+- **Aman Verma** - Initial work
 
 ## 🆘 Support
 
